@@ -1,0 +1,11 @@
+BS- Vikram Basude
+
+Deal the cards out evenly. If there are remainders, place them face down in the center of the table as the beginning of the discard pile.
+Play begins with the player to the left of the dealer. He places the Aces in his hand facedown on the discard pile and announces his play
+to the table: "One Ace." If the player does not have any Aces, or if he wishes to get rid of more than one card, he
+may bluff and play non-Ace cards while announcing: "Two Aces." The next player plays 2s, the next player plays 3s, and so on. If a player 
+doesn't believe an announcement, he can call out, "BS!" The person who played the cards must turn them over and show the challenger whether he is bluffing or not. A player who is caught bluffing must pick up the entire discard pile and add it to his hand. If a challenged player is not bluffing, then
+the challenger must pick up the discard pile. When the rank to play reaches Kings, it then goes back to Aces and the numbers start again.
+
+Sequence:
+Once you recieved the cards, whoever has the ace card gets to start and places that card in the center
