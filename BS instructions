@@ -7,5 +7,24 @@ may bluff and play non-Ace cards while announcing: "Two Aces." The next player p
 doesn't believe an announcement, he can call out, "BS!" The person who played the cards must turn them over and show the challenger whether he is bluffing or not. A player who is caught bluffing must pick up the entire discard pile and add it to his hand. If a challenged player is not bluffing, then
 the challenger must pick up the discard pile. When the rank to play reaches Kings, it then goes back to Aces and the numbers start again.
 
-Sequence:
-Once you recieved the cards, whoever has the ace card gets to start and places that card in the center
+Instruction sequence:
+Everyone playing 
+
+
+
+
+instruction selection:
+Everyone playing gets 7 cards
+whoever has the ace of spades they put it down first
+
+if the next player has an amount of 2s
+Then they put down that amount of 2s
+else they don't have any 2s
+then they lie and say they have a 2 but put down a different card
+
+if someone suspects that the person who put the card down is lying
+then they yell "BS" and that person has to take all the cards that have been placed down
+else no one suspects the person has lied
+then that player gets away with it and he loses the cards he played
+
+Instructions repitition
