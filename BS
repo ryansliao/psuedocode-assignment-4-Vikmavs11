@@ -9,3 +9,4 @@ the challenger must pick up the discard pile. When the rank to play reaches King
 
 Sequence:
 Once you recieved the cards, whoever has the ace card gets to start and places that card in the center
+
